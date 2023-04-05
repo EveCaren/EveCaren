@@ -1,6 +1,6 @@
 <div id="header">
     <h1 align="center">Hi there! 👋, I'm Eve 🍃</h1>
-    <h3 align="center">I'm a Front End Developer Jr who enjoys learning.</h3>
+    <h3 align="center">I'm a Front End Developer Jr who enjoys learning</h3>
     <h2></h2>
 </div>
 
